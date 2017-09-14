@@ -35,7 +35,7 @@
     "symbol-observable": "^1.0.2",
     "ts-disposables": "^2.1.0",
     "typescript": "^2.0.0",
-    "vscode-jsonrpc": "^2.2.0",
+    "vscode-jsonrpc": "^3.3.1",
     "vscode-languageserver-types": "^1.0.1"
   },
   "devDependencies": {
