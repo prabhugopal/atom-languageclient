@@ -10,7 +10,7 @@ var __extends = (this && this.__extends) || function (d, b) {
 var _ = require('lodash');
 var rxjs_1 = require('rxjs');
 var View_1 = require('./View');
-atom.themes.requireStylesheet(require.resolve('../../../styles/select-list.less'));
+atom.themes.requireStylesheet(require.resolve('../../../../styles/select-list.less'));
 var SelectListView = (function (_super) {
     __extends(SelectListView, _super);
     function SelectListView(commands) {
